@@ -66,6 +66,23 @@
 
 ---
 
+## ⏱️ 编码时长统计 | Coding Time Stats
+
+<div align="center">
+  
+### 📅 本周编码统计
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haowei614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="WakaTime Stats"/>
+</div>
+
+---
+
 ## 🏆 GitHub 奖杯 | GitHub Trophies
 
 <div align="center">
