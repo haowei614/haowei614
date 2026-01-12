@@ -23,32 +23,33 @@
 
 ---
 
-## 🛠️ 技术栈 | Tech Stack
+## 💻 技术栈 | Tech Stack
 
-### 编程语言
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+<div align="center">
 
-### 框架与工具
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+### 🔷 核心技能
 
-### AI & ML
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,css,html&theme=dark" />
+
+### 🔷 AI & 机器学习
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+### 🔷 开发工具
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,linux&theme=dark" />
+
+### 🔷 框架 & 数据库
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres,mongodb,redis&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=nord&bg=0D1117&titleColor=00D9FF&line1=python,python,3776AB;java,java,ED8B00;c,c,00599C;javascript,js,F7DF1E;&line2=pytorch,pytorch,EE4C2C;tensorflow,tensorflow,FF6F00;scikitlearn,sklearn,F7931E;jupyter,jupyter,F37626;&line3=git,git,F05032;docker,docker,2496ED;linux,linux,FCC624;github,github,181717;" />
+</div>
 
 ---
 
