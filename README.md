@@ -15,7 +15,7 @@
 ### 🧑‍🔬 About Me
 
 ```yaml
-name: Cheng
+name: Haowei Cheng
 role: D2 PhD Student
 affiliation: Waseda University (早稲田大学 理工学術院)
 advisor: Prof. Hironori Washizaki
