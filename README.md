@@ -90,10 +90,6 @@ location: Tokyo, Japan 🇯🇵
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=haowei614&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact" />
-
-</div>
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -107,6 +103,8 @@ Graphviz (DOT)   3 mins                ▒░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
 
 ---
 
