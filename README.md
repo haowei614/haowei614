@@ -93,9 +93,13 @@ location: Tokyo, Japan 🇯🇵
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-No activity tracked
+CSV          42 mins               █████████░░░░░░░░░░░░░░░░   36.40 %
+Python       21 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Other        11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Markdown     9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+Text         7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka-->
