@@ -93,11 +93,11 @@ location: Tokyo, Japan 🇯🇵
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2026 - To: 31 May 2026
+From: 25 May 2026 - To: 01 June 2026
 
-Other      19 mins               █████████████▓░░░░░░░░░░░   55.26 %
-Markdown   10 mins               ███████░░░░░░░░░░░░░░░░░░   28.64 %
-JSON       5 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Other      20 mins               █████████████▒░░░░░░░░░░░   53.11 %
+Markdown   12 mins               ████████░░░░░░░░░░░░░░░░░   31.61 %
+JSON       5 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
 ```
 
 <!--END_SECTION:waka-->
