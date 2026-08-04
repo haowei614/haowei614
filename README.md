@@ -93,7 +93,7 @@ location: Tokyo, Japan 🇯🇵
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2026 - To: 02 August 2026
+From: 27 July 2026 - To: 03 August 2026
 
 TeX           1 hr 32 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
 Markdown      43 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
