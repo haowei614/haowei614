@@ -93,11 +93,13 @@ location: Tokyo, Japan 🇯🇵
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2026 - To: 21 August 2026
+From: 15 August 2026 - To: 22 August 2026
 
-Python   16 mins               █████████████▒░░░░░░░░░░░   53.95 %
-CSS      9 mins                ████████░░░░░░░░░░░░░░░░░   31.67 %
-Text     4 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+TeX      19 mins               █████████▒░░░░░░░░░░░░░░░   37.57 %
+Python   16 mins               ████████░░░░░░░░░░░░░░░░░   31.50 %
+CSS      9 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+Text     4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+JSON     2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
