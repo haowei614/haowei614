@@ -93,13 +93,13 @@ location: Tokyo, Japan 🇯🇵
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2026 - To: 03 October 2026
+From: 27 September 2026 - To: 04 October 2026
 
-TeX          1 hr 27 mins          ██████████░░░░░░░░░░░░░░░   40.15 %
-Python       34 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-YAML         21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Other        20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-SSH Config   19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+TeX          1 hr 27 mins          ██████████░░░░░░░░░░░░░░░   39.85 %
+Python       34 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Other        22 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+YAML         21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+SSH Config   19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
 ```
 
 <!--END_SECTION:waka-->
