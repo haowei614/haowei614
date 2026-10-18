@@ -93,7 +93,7 @@ location: Tokyo, Japan 🇯🇵
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2026 - To: 16 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
 TeX            2 hrs 16 mins         █████████░░░░░░░░░░░░░░░░   35.36 %
 Python         1 hr 48 mins          ███████░░░░░░░░░░░░░░░░░░   28.05 %
