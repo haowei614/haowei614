@@ -93,13 +93,13 @@ location: Tokyo, Japan 🇯🇵
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
-TeX            2 hrs 16 mins         █████████░░░░░░░░░░░░░░░░   35.36 %
-Python         1 hr 48 mins          ███████░░░░░░░░░░░░░░░░░░   28.05 %
-Text           49 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Markdown       22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-TypeScript     15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Python         2 hrs 40 mins         ███████▓░░░░░░░░░░░░░░░░░   31.21 %
+TeX            2 hrs 20 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+Text           57 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Markdown       54 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Bash           18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->
